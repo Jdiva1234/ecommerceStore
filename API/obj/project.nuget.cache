@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dd3doFWAx80=",
+  "success": true,
+  "projectFilePath": "/Users/justice/Desktop/store/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/justice/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0-rc.1.24452.1/microsoft.aspnetcore.openapi.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "/Users/justice/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
