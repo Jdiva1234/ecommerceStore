@@ -15,7 +15,6 @@
 /Users/justice/Desktop/store/API/obj/Debug/net9.0/API.csproj.CoreCompileInputs.cache
 /Users/justice/Desktop/store/API/obj/Debug/net9.0/API.MvcApplicationPartsAssemblyInfo.cs
 /Users/justice/Desktop/store/API/obj/Debug/net9.0/API.MvcApplicationPartsAssemblyInfo.cache
-/Users/justice/Desktop/store/API/obj/Debug/net9.0/API.sourcelink.json
 /Users/justice/Desktop/store/API/obj/Debug/net9.0/scopedcss/bundle/API.styles.css
 /Users/justice/Desktop/store/API/obj/Debug/net9.0/staticwebassets.build.json
 /Users/justice/Desktop/store/API/obj/Debug/net9.0/staticwebassets.development.json
