@@ -209,7 +209,7 @@ namespace API.Data
             foreach(var product in products){
                 context.Products.Add(product);
             }
-            context.SaveChanges();
+           context.SaveChanges();
         }
     }
 }
